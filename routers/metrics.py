@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from fastapi.security import OAuth2PasswordBearer
 
 router = APIRouter()
-engine = create_engine("sqlite:///student.db", echo=False)
+engine = create_engine("sqlite:///students.db", echo=False)
 
 
 
