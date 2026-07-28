@@ -29,19 +29,19 @@ Develop a smart dashboard for student health monitoring with AI integration.
 - Display live and historical health information through a web-based dashboard.
 - Generate alerts for abnormal readings to support student health and wellness.
 
-## ✨ Features
+##  Features
 
-- ❤️ Real-time heart rate monitoring
-- 🏃 Motion and activity tracking
-- 🤖 AI-based anomaly detection using Isolation Forest
-- 📊 Live dashboard visualization
-- 📈 Historical data analysis
-- 🚨 Health alert notifications
-- 🔌 IoT integration with ESP32
+-  Real-time heart rate monitoring
+-  Motion and activity tracking
+-  AI-based anomaly detection using Isolation Forest
+-  Live dashboard visualization
+-  Historical data analysis
+-  Health alert notifications
+-  IoT integration with ESP32
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Hardware
 
